@@ -1,4 +1,4 @@
-# Metodo do PontoFixo
+# Método do PontoFixo
 
 
 Notebooks em Python utilizados nos vídeos sobre método do ponto fíxo, mapa logístico e caos, o canal Thadeu Penna no Youtube. 
